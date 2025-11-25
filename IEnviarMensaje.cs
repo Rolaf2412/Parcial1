@@ -1,6 +1,6 @@
 using System;
 
-interface IEnviarMensaje
+public interface IEnviarMensaje
 {
     public void EnviarMensaje()
     {

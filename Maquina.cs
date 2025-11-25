@@ -1,6 +1,6 @@
 using System;
 
-abstract class Maquina
+public abstract class Maquina
 {
     string Nombre;
     string tipo;
@@ -23,6 +23,6 @@ abstract class Maquina
         Console.WriteLine("----------MAQUINA------------");
         Console.WriteLine(Nombre);
         Console.WriteLine(tipo);
-        Console.WriteLine("---------------------------------");
+        
     }
 }

@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-class Examen1
+public class Examen1
 {
 static void Main(string[] arg)
     {

@@ -1,6 +1,6 @@
 using System;
 
-class Computador : Maquina, IEnviarMensaje
+public class Computador : Maquina, IEnviarMensaje
 {
     public Computador(string nom, string tipo) : base(nom, tipo)
     {
